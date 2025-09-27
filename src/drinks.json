@@ -1,0 +1,58 @@
+{
+  "drinks": [
+    {
+      "name": "Caffè Latte",
+      "ingredients": {
+        "temp": "hot",
+        "milk": "cow",
+        "syrup": "none",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "cow",
+        "syrup": "caramel",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Vanilla Oat Latte",
+      "ingredients": {
+        "temp": "hot",
+        "milk": "oat",
+        "syrup": "vanilla",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Toffee Frappuccino (discontinued-ish)",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "cow",
+        "syrup": "toffee",
+        "blended": "yes"
+      }
+    },
+    {
+      "name": "Maple Oat Cold Brew",
+      "ingredients": {
+        "temp": "cold",
+        "milk": "oat",
+        "syrup": "maple",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Turbo Mocha Blast",
+      "ingredients": {
+        "temp": "lukewarm",
+        "milk": "almond",
+        "syrup": "mocha",
+        "blended": "turbo"
+      }
+    }
+  ]
+}
